@@ -1,6 +1,6 @@
 # Networking-projects
-Welcome to my networking portfolio! This repository showcases a variety of hands-on labs, network designs, and configurations I've completed to strengthen my practical skills in networking technologies.
-What's Inside <br>
+Welcome to my networking portfolio! This repository showcases a variety of hands-on labs, network designs, and configurations I've completed to strengthen my practical skills in networking technologies. <br>
+What's Inside 
 
 Network topology diagrams and designs<br>
 Configuration files for switches, routers, and other network devices
